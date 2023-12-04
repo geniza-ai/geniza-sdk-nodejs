@@ -1,0 +1,26 @@
+{
+  "name": "geniza-sdk-nodejs",
+  "version": "0.1.1",
+  "description": "This SDK is the best and easiest way to connect to the Geniza.ai API",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geniza-ai/geniza-sdk-nodejs.git"
+  },
+  "keywords": [
+    "geniza",
+    "ai"
+  ],
+  "author": "Geniza AI <support@geniza.ai>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geniza-ai/geniza-sdk-nodejs/issues"
+  },
+  "homepage": "https://github.com/geniza-ai/geniza-sdk-nodejs#readme",
+  "dependencies": {
+    "mocha": "^10.2.0"
+  }
+}
