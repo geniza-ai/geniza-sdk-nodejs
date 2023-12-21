@@ -4,8 +4,8 @@
   "description": "This SDK is the best and easiest way to connect to the Geniza.ai API",
   "main": "lib/geniza.js",
   "scripts": {
-    "lint": "eslint lib",
-    "test": "jest"
+    "lint": "eslint lib/**/*.?js",
+    "test": "NODE_OPTIONS=--experimental-vm-modules jest"
   },
   "repository": {
     "type": "git",
